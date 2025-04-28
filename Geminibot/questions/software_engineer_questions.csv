@@ -1,0 +1,104 @@
+question
+What is the difference between stack and heap memory?
+Explain the concept of object-oriented programming.
+How would you optimize a slow SQL query?
+What are the SOLID principles in software design?
+Describe the difference between REST and GraphQL APIs.
+How does garbage collection work in Java?
+What is the time complexity of a binary search algorithm?
+Explain the CAP theorem and its implications.
+How would you design a URL shortening service like bit.ly?
+What are microservices and their advantages over monoliths?
+How do you handle concurrency issues in a distributed system?
+Explain the difference between TCP and UDP.
+What is Docker and how does it differ from virtual machines?
+Describe how HTTPS works to secure communications.
+What are some common design patterns you've used in projects?
+How would you scale a web application to handle millions of users?
+Explain the difference between authentication and authorization.
+What is CI/CD and why is it important?
+How does indexing work in databases?
+Describe the process of dependency injection.
+What are the advantages of using NoSQL databases?
+How would you troubleshoot a memory leak in an application?
+Explain the concept of eventual consistency.
+What is the difference between synchronous and asynchronous programming?
+How do you ensure code quality in a team environment?
+Describe how Git branching strategy works in your projects.
+What are the benefits of test-driven development?
+How would you design a rate-limiting system for an API?
+Explain the concept of polymorphism with an example.
+What are lambda functions and when would you use them?
+How does OAuth 2.0 work for authentication?
+Describe the differences between SQL and NoSQL databases.
+What is the role of a load balancer in system architecture?
+How would you implement a cache in a web application?
+Explain the concept of idempotency in APIs.
+"What are the differences between unit, integration, and end-to-end tests?"
+How does React's virtual DOM improve performance?
+Describe the process of database normalization.
+What are WebSockets and when would you use them?
+How would you secure a web application against common vulnerabilities?
+Explain the concept of immutability in programming.
+What are the trade-offs between relational and document databases?
+How does the JWT authentication work?
+Describe how you would implement a search feature with autocomplete.
+What are the principles of clean code?
+How would you monitor the health of a production application?
+Explain the concept of duck typing.
+What are the differences between monolithic and microservices architectures?
+How would you handle a database migration without downtime?
+Describe the benefits of container orchestration systems like Kubernetes.
+What is the difference between horizontal and vertical scaling?
+How would you design a distributed logging system?
+Explain the concept of eventual consistency in distributed systems.
+What are the characteristics of a good API design?
+How would you implement pagination in a web application?
+Describe the process of feature flag implementation.
+What are the advantages of using message queues in systems?
+How would you debug a performance issue in a production system?
+Explain the concept of inversion of control.
+What are the differences between process and threads?
+How would you design a system to handle large file uploads?
+Describe how you would implement a real-time chat application.
+What are the security considerations when designing an API?
+How would you approach refactoring legacy code?
+Explain the concept of domain-driven design.
+What are the benefits of using TypeScript over JavaScript?
+How would you design a recommendation system?
+Describe how MapReduce works for big data processing.
+What are the differences between SOAP and REST APIs?
+How would you implement a retry mechanism for failed API calls?
+Explain the concept of sharding in databases.
+What are the characteristics of 12-factor apps?
+How would you design a system to process background jobs?
+Describe the benefits of using GraphQL over REST.
+What are the differences between stateful and stateless applications?
+How would you implement internationalization in a web app?
+Explain the concept of event sourcing.
+What are the advantages of serverless architecture?
+How would you design a permission system for an application?
+Describe how you would implement A/B testing in a web app.
+What are the differences between compiled and interpreted languages?
+How would you secure sensitive configuration in an application?
+Explain the concept of hexagonal architecture.
+What are the benefits of infrastructure as code?
+How would you design a data warehouse for analytics?
+Describe how you would implement a circuit breaker pattern.
+What are the differences between pessimistic and optimistic locking?
+How would you approach testing a distributed system?
+Explain the concept of feature stores in machine learning.
+What are the benefits of using a service mesh?
+How would you design a system for zero-downtime deployments?
+Describe how you would implement data encryption at rest.
+What are the differences between blue-green and canary deployments?
+How would you approach documenting a complex system?
+Explain the concept of data replication in distributed systems.
+What are the benefits of using event-driven architecture?
+How would you design a system to handle peak traffic loads?
+Describe how you would implement a content delivery network.
+What are the differences between centralized and distributed version control?
+How would you approach learning a new programming language?
+Explain the concept of data partitioning.
+What are the benefits of using a monorepo for code?
+How would you design a system to handle offline functionality?

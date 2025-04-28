@@ -1,0 +1,107 @@
+question
+What is the difference between structured and unstructured data?
+Explain the data cleaning process in a typical data analysis workflow.
+How would you handle missing or inconsistent data in a dataset?
+What are the key steps in the data analysis lifecycle?
+"Describe the difference between descriptive, diagnostic, predictive, and prescriptive analytics."
+How do you identify and deal with outliers in a dataset?
+What is the importance of data visualization in data analysis?
+Explain the difference between correlation and causation.
+How would you analyze customer churn for a subscription-based business?
+What are the advantages and disadvantages of using Excel vs. SQL for data analysis?
+How do you ensure data quality in your analysis?
+Describe a time you used statistical analysis to solve a business problem.
+"What is A/B testing, and how do you analyze the results?"
+Explain the difference between supervised and unsupervised learning.
+How would you analyze sales trends over time?
+"What are some common data biases, and how do you mitigate them?"
+How do you determine which KPIs to track for a business?
+Explain the concept of cohort analysis with an example.
+"What tools do you typically use for data analysis, and why?"
+How would you present your findings to a non-technical audience?
+What is the difference between a data analyst and a data scientist?
+Describe how you would analyze website traffic data.
+How do you validate the accuracy of your analysis?
+Explain the importance of data normalization.
+What is the difference between a histogram and a bar chart?
+How would you segment customers for a marketing campaign?
+"What is a pivot table, and how is it useful in data analysis?"
+Describe a time you used regression analysis.
+How do you handle large datasets that don’t fit in memory?
+What is the difference between ETL and ELT?
+Explain the concept of statistical significance.
+How would you analyze user engagement for a mobile app?
+What are some common data visualization mistakes to avoid?
+Describe how you would forecast sales using historical data.
+What is the difference between a left join and an inner join in SQL?
+How do you prioritize which data analysis projects to work on?
+Explain the concept of data granularity.
+What are some best practices for creating dashboards?
+How would you analyze the effectiveness of a marketing campaign?
+"What is the difference between a median and a mean, and when would you use each?"
+Describe how you would use Python (Pandas) for data cleaning.
+What are some common SQL functions you use in data analysis?
+How do you ensure reproducibility in your analysis?
+Explain the difference between a star schema and a snowflake schema.
+"What is data wrangling, and why is it important?"
+How would you analyze customer feedback data?
+What are some techniques for feature selection in machine learning?
+Explain the difference between a bar chart and a box plot.
+How do you handle imbalanced datasets in classification problems?
+What is the role of a data analyst in a business intelligence team?
+Describe how you would analyze supply chain data.
+What are some common data security concerns in data analysis?
+How would you analyze social media engagement metrics?
+Explain the concept of time-series analysis.
+What is the difference between a parameter and a statistic?
+How do you decide which charts to use for different types of data?
+Describe how you would use clustering in customer segmentation.
+What are some ways to reduce bias in data sampling?
+How would you analyze employee performance data?
+Explain the difference between a fact table and a dimension table.
+What is the importance of data storytelling?
+How do you handle duplicate records in a dataset?
+Describe how you would analyze financial data for trends.
+What are some common pitfalls in data interpretation?
+How would you analyze survey data with multiple-choice questions?
+Explain the concept of data imputation.
+What is the difference between a primary key and a foreign key?
+How do you determine if a trend in data is meaningful?
+Describe how you would use conditional formatting in Excel.
+What are some techniques for anomaly detection?
+How would you analyze product pricing data?
+Explain the difference between a line chart and a scatter plot.
+What is the role of hypothesis testing in data analysis?
+How do you handle time-zone differences in global data?
+Describe how you would analyze e-commerce conversion rates.
+What are some best practices for writing SQL queries?
+How would you analyze seasonal trends in sales data?
+Explain the difference between a violin plot and a box plot.
+What is the importance of data governance in analytics?
+How do you analyze customer lifetime value (CLV)?
+Describe how you would use window functions in SQL.
+What are some ways to improve data visualization accessibility?
+How would you analyze A/B test results for a website redesign?
+Explain the difference between data mining and data analysis.
+What is the role of a data analyst in a data-driven organization?
+How do you analyze customer retention rates?
+Describe how you would use Python’s Matplotlib for visualization.
+What are some common challenges in data cleaning?
+How would you analyze inventory turnover data?
+Explain the concept of data binning.
+What is the difference between a waterfall chart and a Gantt chart?
+How do you analyze customer satisfaction survey data?
+Describe how you would use SQL’s GROUP BY and HAVING clauses.
+What are some techniques for handling skewed data?
+How would you analyze click-through rates (CTR) for digital ads?
+Explain the difference between a heatmap and a treemap.
+What is the importance of metadata in data analysis?
+How do you analyze employee turnover data?
+Describe how you would use Python’s Seaborn for advanced visualizations.
+What are some ways to optimize SQL queries for performance?
+How would you analyze customer demographics data?
+Explain the difference between a Pareto chart and a pie chart.
+What is the role of exploratory data analysis (EDA) in a project?
+How do you analyze product return rates?
+Describe how you would use data aggregation in analysis.
+What are some best practices for documenting your analysis process?
